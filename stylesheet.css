@@ -4,10 +4,12 @@ h1{
     text-align: center;
     font-family: "Monaco", "Courier New", monospace;
     font-weight: 700px;
+    border-bottom-style: dashed;
 }
 
 body{
     background-color: #87CEEB;
+    margin:20px;
 }
 
 ul{
@@ -15,4 +17,5 @@ ul{
     font-family: "Monaco", monospace;
     font-weight: 400px;
     list-style-position: inside;
+    padding: 25px;
 }
