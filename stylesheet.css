@@ -9,3 +9,10 @@ h1{
 body{
     background-color: #87CEEB;
 }
+
+ul{
+    text-align: center;
+    font-family: "Monaco", monospace;
+    font-weight: 400px;
+    list-style-position: inside;
+}
