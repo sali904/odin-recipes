@@ -1,6 +1,11 @@
 /* stylesheet.css */
+
 h1{
     text-align: center;
     font-family: "Monaco", monospace;
     font-weight: 700px;
+}
+
+body{
+    background-color: #87CEEB;
 }
