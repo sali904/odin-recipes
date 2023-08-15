@@ -19,17 +19,16 @@ ul{
     font-weight: 400px;
     list-style-position: inside;
     padding: 5px;
+    margin-left: 450px;
 }
 
 li{
-    display: inline-block;
+    display: block;
     width: 350px;
     height: 50px;
     margin: 45px;
     border-style: double;
     border-width: 3px;
     padding: 10px;
-    padding-top: 15px;
-    text-align: center;
-    
+    padding-top: 15px;  
 }
